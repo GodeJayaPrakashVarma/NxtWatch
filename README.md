@@ -1,4 +1,4 @@
-In this project, let's build **Nxt Watch** by applying the concepts we have learned till now.
+In this project, I built **Nxt Watch**.
 
 ### Refer to the videos below:
 
